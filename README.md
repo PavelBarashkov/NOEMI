@@ -7,4 +7,4 @@
 ## В планах
 * Подключить JS
 
-[NOEMI](https://pavelbarashkov.github.io/mq-noemi/)
+[NOEMI](https://pavelbarashkov.github.io/NOEMI/)
